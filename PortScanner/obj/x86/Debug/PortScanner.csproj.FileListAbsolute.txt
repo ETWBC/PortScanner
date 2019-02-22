@@ -1,0 +1,11 @@
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.Form1.resources
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.Properties.Resources.resources
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.csproj.GenerateResource.Cache
+E:\Create\C#\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+E:\Create\C#\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.exe
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.pdb
+E:\Create\C#\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+E:\Create\C#\PortScanner\PortScanner\bin\Debug\IPAddressControlLib.dll
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.Form2.resources
+E:\Create\C#\PortScanner\PortScanner\obj\x86\Debug\PortScanner.csprojResolveAssemblyReference.cache
